@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.2, 2020-12-17T11:00:52. -->
+<!-- Written by QtCreator 4.13.2, 2020-12-17T10:31:02. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -325,9 +325,8 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">the2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/prais/iCloudDrive/iCloud(Backed2Git)/GitUpload/Group-Cwk3/prototype1Complete/the.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/prais/iCloudDrive/iCloud(Backed2Git)/GitUpload/Group-Cwk3/prototype1Complete/the.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/prais/iCloudDrive/Tobi/2811_cw3_prototype1_2/2811_cw3_prototype1/the.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/prais/iCloudDrive/Tobi/2811_cw3_prototype1_2/2811_cw3_prototype1/the.pro</value>
     <value type="QString" key="RunConfiguration.Arguments">&quot;C:\Users\prais\iCloudDrive\iCloud(Backed2Git)\UI cwk\Cwk3\videos\videos&quot;</value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
